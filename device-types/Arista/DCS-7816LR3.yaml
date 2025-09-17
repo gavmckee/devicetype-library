@@ -1,0 +1,136 @@
+# DCS-7816LR3.yaml
+---
+manufacturer: Arista
+model: DCS-7816LR3
+slug: arista-dcs-7816lr3
+part_number: DCS-7816LR3
+u_height: 32
+is_full_depth: true
+subdevice_role: parent
+weight: 691
+weight_unit: kg
+console-ports:
+  - name: Console
+    type: rj-45
+power-ports:
+  - name: PSU1
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU2
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU3
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU4
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU5
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU6
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU7
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU8
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU9
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU10
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU11
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU12
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU13
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU14
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU15
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU16
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU17
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU18
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU19
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU20
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU21
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU22
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU23
+    type: iec-60320-c20
+    maximum_draw: 3000
+  - name: PSU24
+    type: iec-60320-c20
+    maximum_draw: 3000
+module-bays:
+  - name: Supervisor1
+    position: SUP1
+  - name: Supervisor2
+    position: SUP2
+  - name: LineCard1
+    position: LC1
+  - name: LineCard2
+    position: LC2
+  - name: LineCard3
+    position: LC3
+  - name: LineCard4
+    position: LC4
+  - name: LineCard5
+    position: LC5
+  - name: LineCard6
+    position: LC6
+  - name: LineCard7
+    position: LC7
+  - name: LineCard8
+    position: LC8
+  - name: LineCard9
+    position: LC9
+  - name: LineCard10
+    position: LC10
+  - name: LineCard11
+    position: LC11
+  - name: LineCard12
+    position: LC12
+  - name: LineCard13
+    position: LC13
+  - name: LineCard14
+    position: LC14
+  - name: LineCard15
+    position: LC15
+  - name: LineCard16
+    position: LC16
+  - name: Fabric1
+    position: FM1
+  - name: Fabric2
+    position: FM2
+  - name: Fabric3
+    position: FM3
+  - name: Fabric4
+    position: FM4
+  - name: Fabric5
+    position: FM5
+  - name: Fabric6
+    position: FM6
