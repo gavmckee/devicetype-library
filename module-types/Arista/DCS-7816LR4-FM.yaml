@@ -1,0 +1,9 @@
+# DCS-7816LR4-FM.yaml
+---
+manufacturer: Arista
+model: DCS-7816LR4-FM
+slug: arista-dcs-7816lr4-fm
+part_number: DCS-7816LR4-FM
+weight: 2.8
+weight_unit: kg
+comments: "7800R4 Series Fabric Module for 7816L Chassis, required for fabric slots 1-5. Provides high-speed switching fabric optimized for AI/ML workloads."
